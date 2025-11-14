@@ -3,7 +3,7 @@
 ## 📋 Descripción del Proyecto
 
 ## Introdución
-En un museo de Historia de Cuba es necesario colocar 10 camaras de seguridad para proteger el local. Cada camara cubre una cierta y no se pueden solapar entre ellas. Es necesario abarcar la mayor cantidad de area posible. El museo posee una dimensiones de 120 m*m
+En un museo de Historia de Cuba es necesario colocar 10 camaras de seguridad para proteger el local. Cada camara cubre una cierta y no se pueden solapar entre ellas. Es necesario abarcar la mayor cantidad de area posible. El museo posee una dimensiones de 120 m²
 ---
 
 ## 🎯 Objetivo
@@ -127,3 +127,4 @@ self.max_restarts = 30  # Aumentar para más exploración
 self.temp_inicial = 1500    # Temperatura más alta → más exploración inicial
 self.enfriamiento = 0.90    # Enfriamiento más lento → más iteraciones
 ```
+
